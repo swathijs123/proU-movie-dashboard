@@ -22,6 +22,30 @@ The application includes the following core, professional functionalities:
 
 ---
 
+
+##  Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Styling** | Tailwind CSS / Custom CSS |
+| **Data Handling** | Local JSON (movies.json) |
+| **Build Tool** | Vite |
+| **Version Control** | Git & GitHub |
+
+---
+
+
+## Screenshots
+
+### Home Page
+![Home Screenshot](./screenshots/homepage.png)
+
+### Filter & Search
+![Filter Screenshot](./screenshots/filter.png)
+
+### Pages
+![Pages Screenshot](./screenshots/pages.png).
 ## Installation and Setup
 
 Follow these steps to get the project running locally.
@@ -54,4 +78,4 @@ Follow these steps to get the project running locally.
 
 ---
 
-## 📂 Project Structure# proU-movie-dashboard
+
