@@ -39,13 +39,13 @@ The application includes the following core, professional functionalities:
 ## Screenshots
 
 ### Home Page
-![Home Screenshot](./screenshots/homepage.png)
+![Home Screenshot](./homepage.png)
 
 ### Filter & Search
-![Filter Screenshot](./screenshots/filter.png)
+![Filter Screenshot](./filter.png)
 
 ### Pages
-![Pages Screenshot](./screenshots/pages.png).
+![Pages Screenshot](./pages.png).
 ## Installation and Setup
 
 Follow these steps to get the project running locally.
